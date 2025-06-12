@@ -1,0 +1,80 @@
+div>
+       <h2>  Welcome </h2>
+      <h1> Anurag Siddharth</h>
+      <h4> Teach | Motivation | Learning style </h4>
+       <a1        href="https://youtube.com/@anuragsiddharthml?si=y1JnXnsVtuiPmkLb"> Subscribe Now </a1>
+   <style> 
+                * { margin: 0px;
+                     padding: 0px;
+                     text-align: center;
+                     color: white;
+                     text-decorestion: none;
+                   }
+        
+             h1{
+                   font-size: 40px; 
+                  
+                  }
+           h4 { 
+           	margin: 10px;
+           	padding-top: 10px;
+           	padding-bottom:  20px;
+           	}
+            h2{
+            	 font-size: 30px;
+            	 padding-top: 20px;
+            	 padding-bottom: 20px;
+                 }
+              a1 { 
+              	background: red;
+              	text-decoretion: none;
+              	border: 2px solide darkred;
+              	border-radius: 5px;
+              	padding: 20px 40px;
+              	font-size: 20px;
+              	display: inline-block;
+              	margin-top: 20px;
+              	margin-bottom: 50px;
+                    }
+      </style>          
+                
+              
+              
+                     
+      </div>          
+             <style> 
+                     	div { background: blue;
+                      	     }
+              </style>          
+              
+              
+              
+              
+<div2>              
+   <h5> 💌  Content With Me </h5>
+   <a  href="https://www.instagram.com/anuragxsiddharth?igsh=aWl3azQ4Y3UyaDRi"> INSTAGRAM</a>
+   <a href="https://www.facebook.com/share/1L54RXmdjy/">FACEBOOK</a>
+   <a href="https://www.snapchat.com/add/anurag777d?share_id=Llg8h-nj1jM&locale=en-US">SNAPCHAT</a>
+   <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFzqORVZNNEaQAAAZdi5D8YThXvp795PE7yN8lAgkFGlqiFl8M4zZ4WSilYU5KaLVE2tzcE8qxbAbjbGhVoC3E4YOD-SyDMBtaSpEhTrlLQIHLvu1rWk-T3rqz0ToqxomtotzY=&original_referer=http://m.facebook.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanurag-siddharth-580055364">LINKDIN </a>
+   <a href="https://x.com/anuragsiddhart" > X</a>      
+           <style> 
+           	   
+         
+              
+             
+              	     a { 
+              		  color: black;
+              		  display: block;
+              		  padding: 2px;
+              		  font-size: 20px;
+              		  text-decorestion: none;
+              		 
+              		 }
+                      h5  {color: black;
+                      	 font-size: 30px;
+                      	 }
+                      div { margin: 70px;
+                      	 
+                             }
+              </style>
+
